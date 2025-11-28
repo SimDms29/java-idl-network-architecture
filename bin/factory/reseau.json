@@ -1,0 +1,17 @@
+[
+  {
+    "__nom__": "__unnomjsonique__",
+    "__adresse__": [192, 168, 1, 0],
+    "nombreMachines": 5
+  },
+  {
+    "__nom__": "réseau_bureau",
+    "__adresse__": [192, 168, 2, 0],
+    "nombreMachines": 8
+  },
+  {
+    "__nom__": "réseau_invités",
+    "__adresse__": [192, 168, 10, 0],
+    "nombreMachines": 3
+  }
+]
